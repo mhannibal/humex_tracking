@@ -1,0 +1,20 @@
+**/node_modules
+/env/
+*.pyc
+*.dev.json
+*.sqlite3
+/__pycache__/
+
+# Packaging
+*.pyc
+*.egg-info
+/dist/
+/build/
+
+# Temporary/OS files
+*.swp
+*.swo
+*.*~
+.~lock.*
+*.DS_Store
+.python-version
